@@ -1,0 +1,26 @@
+h2 {
+    font-size: 2.3rem;
+}
+.lead {
+    font-size: 1.5rem;
+}
+/* padding between haeding and videos */
+.py-5 {
+    padding-bottom: 1rem!important;
+}
+.media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.media p {
+    text-align: center;
+
+}
+strong{
+    text-align: center;
+}
+iframe {
+    width: 100%;
+    height: 30vh;
+}
